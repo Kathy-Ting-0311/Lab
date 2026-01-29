@@ -8,5 +8,24 @@
  * @author s235065
  */
 public class VocabController {
+    VocabView view;
+    VocabModel model;
+    
+    public void addToModel(String entry, String meaning){
+        
+    }
+    
+    public void deleteFromModel(String entry){
+    
+    }
+    
+    public void lookupFromModel(String entry){
+    
+    }
+    
+    public void closeModel(){
+    
+    }
     
 }
+
