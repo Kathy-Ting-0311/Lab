@@ -1,1 +1,2 @@
-# COM3102
+# Computer Science Course
+- Com Lab files
